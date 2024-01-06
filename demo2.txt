@@ -1,0 +1,2 @@
+create demo2.txt file in visual code 
+copy the file from visual code to github
